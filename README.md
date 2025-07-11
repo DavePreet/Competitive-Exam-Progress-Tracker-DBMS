@@ -96,7 +96,7 @@ All available inside the `/docs/` folder 📂.
 ## 👨‍💻 Author
 
 **Preet Dave**  
-🎓 B.Tech Electronics & Communication Engineering | 2025 Batch  
+🎓 B.Tech Information & Communication Engineering | 2026 Batch  
 🔗 [GitHub Profile](https://github.com/DavePreet)
 
 ---
